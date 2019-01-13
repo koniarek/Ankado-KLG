@@ -19,10 +19,7 @@ a {
 .nav-center {
   justify-content: center;
 }
-.nav-border {
-  /* border-top: 1px solid #c4c4c4; */
-  border-bottom: 1px solid #c4c4c4;
-}
+
 .nav-size {
   font-size: 18px;
 }
@@ -156,6 +153,9 @@ a {
   display: none;
 }
 
+#first-img {
+  vertical-align:middle;
+}
 .thumbs {
   margin-top: 30px;
   width: 100%;
