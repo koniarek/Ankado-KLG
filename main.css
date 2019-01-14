@@ -1,11 +1,5 @@
 
-/**
-*	Stylesheet for EisbachRiders Ebay
-*
-*	@version 1.0 (initial release)
-*	@copyright Eisbach Riders 2018
-*
-*/
+
 
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
 ul li a:hover {
@@ -16,6 +10,7 @@ ul li a:hover {
 a {
   color: #080b0f;
 }
+
 .nav-center {
   justify-content: center;
 }
@@ -23,6 +18,7 @@ a {
 .nav-size {
   font-size: 18px;
 }
+
 .logo {
   width: 100px;
   margin-bottom: 15px;
